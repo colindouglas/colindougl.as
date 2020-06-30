@@ -1,0 +1,40 @@
+---
+layout: nothing
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+<title>
+  {% if page.titlebar %}
+    {{ page.titlebar }}
+  {% elsif page.title %}
+    {{ page.title }}
+  {% else %}
+    -
+  {% endif %}
+</title>
+
+<meta name="msapplication-TileColor" content="#da532c" />
+<meta name="theme-color" content="#2c2c2c" />
+<link rel="stylesheet" href="/assets/css/style.css" />
+
+
+<body>
+  <div class="wrapper">
+    <header class="header">
+      <h1 class="header-title center" itemprop="headline">{{ page.title | escape }}</h1>
+    </header>
+    <main class="page-content" aria-label="Content">
+      <center>
+      {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=4 h_max=4 %}
+      </center>
+    </main>
+    <footer class="footer">
+      <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
+
+    </footer>
+  </div>
+</body>
+
+</html>

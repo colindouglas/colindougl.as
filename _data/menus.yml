@@ -1,0 +1,24 @@
+- title: home
+  icon: mdi-home
+  url: /
+  external: false
+
+- title: about
+  icon: mdi-face
+  url: /about/
+  external: false
+
+- title: c.v.
+  icon: mdi-beaker
+  url: /cv/
+  external: false
+
+- title: projects
+  icon: mdi-crane
+  url: /projects/
+  external: false
+
+- title: real estate
+  icon: mdi-home-city
+  url: /real-estate/
+  external: false
