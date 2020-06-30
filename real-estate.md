@@ -19,9 +19,9 @@ Twice a day, I scrape real estate listings from *the internet* and
 compile them into one big data set. I first started collecting data on
 April 6, 2020.
 
-This dataset contains **25852 rows** describing **7401 unique
-listings**. The last update was performed **in the afternoon on Monday
-June 29, 2020**, and scraped **190** different listing pages.
+This dataset contains **26529 rows** describing **7484 unique
+listings**. The last update was performed **very early in the morning on
+Tuesday June 30, 2020**, and scraped **351** different listing pages.
 
 Volume
 ======
@@ -139,6 +139,30 @@ Value Score
 2020-06-29
 </td>
 <td style="text-align:left;">
+<a href="https://www.viewpoint.ca/property/cutsheet/202011596/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">602-1445
+South Park Street</a>
+</td>
+<td style="text-align:left;">
+Downtown
+</td>
+<td style="text-align:left;">
+$487,306
+</td>
+<td style="text-align:left;">
+$629,900
+</td>
+<td style="text-align:right;">
+1410
+</td>
+<td style="text-align:right;">
+-62
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-06-29
+</td>
+<td style="text-align:left;">
 <a href="https://www.viewpoint.ca/property/cutsheet/202011542/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">1115
 Dalhousie Street</a>
 </td>
@@ -146,7 +170,7 @@ Dalhousie Street</a>
 South End
 </td>
 <td style="text-align:left;">
-$669,705
+$669,737
 </td>
 <td style="text-align:left;">
 $899,950
@@ -155,7 +179,7 @@ $899,950
 1630
 </td>
 <td style="text-align:right;">
--78
+-75
 </td>
 </tr>
 <tr>
@@ -170,7 +194,7 @@ Summit Street</a>
 West End
 </td>
 <td style="text-align:left;">
-$337,371
+$338,252
 </td>
 <td style="text-align:left;">
 $399,900
@@ -179,7 +203,7 @@ $399,900
 1160
 </td>
 <td style="text-align:right;">
--32
+-29
 </td>
 </tr>
 <tr>
@@ -194,7 +218,7 @@ Edingurgh Street</a>
 West End
 </td>
 <td style="text-align:left;">
-$519,278
+$519,498
 </td>
 <td style="text-align:left;">
 $399,900
@@ -203,7 +227,7 @@ $399,900
 1664
 </td>
 <td style="text-align:right;">
-176
+179
 </td>
 </tr>
 <tr>
@@ -218,7 +242,7 @@ Lady Hammond Road</a>
 North End
 </td>
 <td style="text-align:left;">
-$657,350
+$655,104
 </td>
 <td style="text-align:left;">
 $539,900
@@ -227,31 +251,7 @@ $539,900
 1920
 </td>
 <td style="text-align:right;">
-139
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-06-26
-</td>
-<td style="text-align:left;">
-<a href="https://www.viewpoint.ca/property/cutsheet/202011340/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">5895
-Hillside Avenue</a>
-</td>
-<td style="text-align:left;">
-North End
-</td>
-<td style="text-align:left;">
-$321,604
-</td>
-<td style="text-align:left;">
-$339,900
-</td>
-<td style="text-align:right;">
-886
-</td>
-<td style="text-align:right;">
-15
+140
 </td>
 </tr>
 <tr>
@@ -266,7 +266,7 @@ Amalfi Way</a>
 Downtown
 </td>
 <td style="text-align:left;">
-$496,419
+$494,126
 </td>
 <td style="text-align:left;">
 $463,900
@@ -275,31 +275,7 @@ $463,900
 1699
 </td>
 <td style="text-align:right;">
-71
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-06-25
-</td>
-<td style="text-align:left;">
-<a href="https://www.viewpoint.ca/property/cutsheet/202011266/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">5655
-Columbus</a>
-</td>
-<td style="text-align:left;">
-North End
-</td>
-<td style="text-align:left;">
-$354,576
-</td>
-<td style="text-align:left;">
-$440,000
-</td>
-<td style="text-align:right;">
-1015
-</td>
-<td style="text-align:right;">
--50
+72
 </td>
 </tr>
 <tr>
@@ -314,7 +290,7 @@ Micmac Street</a>
 West End
 </td>
 <td style="text-align:left;">
-$414,113
+$414,839
 </td>
 <td style="text-align:left;">
 $369,900
@@ -323,7 +299,7 @@ $369,900
 1350
 </td>
 <td style="text-align:right;">
-94
+97
 </td>
 </tr>
 <tr>
@@ -338,7 +314,7 @@ Tobin Street</a>
 South End
 </td>
 <td style="text-align:left;">
-$257,449
+$255,055
 </td>
 <td style="text-align:left;">
 $269,900
@@ -347,7 +323,7 @@ $269,900
 599
 </td>
 <td style="text-align:right;">
-18
+17
 </td>
 </tr>
 <tr>
@@ -362,7 +338,7 @@ Willow Street</a>
 West End
 </td>
 <td style="text-align:left;">
-$582,500
+$582,489
 </td>
 <td style="text-align:left;">
 $534,900
@@ -371,7 +347,7 @@ $534,900
 1843
 </td>
 <td style="text-align:right;">
-80
+83
 </td>
 </tr>
 <tr>
@@ -386,7 +362,7 @@ Inglis Street</a>
 South End
 </td>
 <td style="text-align:left;">
-$425,453
+$421,517
 </td>
 <td style="text-align:left;">
 $375,000
@@ -395,7 +371,7 @@ $375,000
 1348
 </td>
 <td style="text-align:right;">
-101
+99
 </td>
 </tr>
 <tr>
@@ -410,7 +386,7 @@ Dresden Row</a>
 Downtown
 </td>
 <td style="text-align:left;">
-$364,158
+$361,678
 </td>
 <td style="text-align:left;">
 $520,000
@@ -434,7 +410,7 @@ Morningside Drive</a>
 West End
 </td>
 <td style="text-align:left;">
-$556,465
+$555,921
 </td>
 <td style="text-align:left;">
 $534,900
@@ -443,7 +419,7 @@ $534,900
 1738
 </td>
 <td style="text-align:right;">
-58
+60
 </td>
 </tr>
 <tr>
@@ -458,7 +434,7 @@ Henry Street</a>
 South End
 </td>
 <td style="text-align:left;">
-$609,603
+$610,265
 </td>
 <td style="text-align:left;">
 $789,000
@@ -467,7 +443,7 @@ $789,000
 1818
 </td>
 <td style="text-align:right;">
--65
+-62
 </td>
 </tr>
 <tr>
@@ -482,7 +458,7 @@ Cabot Place</a>
 North End
 </td>
 <td style="text-align:left;">
-$336,166
+$337,264
 </td>
 <td style="text-align:left;">
 $509,900
@@ -491,7 +467,31 @@ $509,900
 1126
 </td>
 <td style="text-align:right;">
--117
+-113
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-06-19
+</td>
+<td style="text-align:left;">
+<a href="https://www.viewpoint.ca/property/cutsheet/202010743/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">3532
+John Parr Drive</a>
+</td>
+<td style="text-align:left;">
+North End
+</td>
+<td style="text-align:left;">
+$321,441
+</td>
+<td style="text-align:left;">
+$239,900
+</td>
+<td style="text-align:right;">
+1197
+</td>
+<td style="text-align:right;">
+198
 </td>
 </tr>
 </tbody>
@@ -542,7 +542,7 @@ Road</a>
 Porters Lake
 </td>
 <td style="text-align:left;">
-$293,349
+$294,024
 </td>
 <td style="text-align:left;">
 $799,900
@@ -551,7 +551,7 @@ $799,900
 1174
 </td>
 <td style="text-align:right;">
--251
+-248
 </td>
 </tr>
 <tr>
@@ -566,7 +566,7 @@ Masons Point Road</a>
 Head Of St. M...
 </td>
 <td style="text-align:left;">
-$395,788
+$393,149
 </td>
 <td style="text-align:left;">
 $795,000
@@ -575,7 +575,7 @@ $795,000
 1775
 </td>
 <td style="text-align:right;">
--191
+-190
 </td>
 </tr>
 <tr>
@@ -590,7 +590,7 @@ Mccabe Lake Drive</a>
 Sackville
 </td>
 <td style="text-align:left;">
-$419,805
+$420,743
 </td>
 <td style="text-align:left;">
 $799,900
@@ -599,7 +599,7 @@ $799,900
 1524
 </td>
 <td style="text-align:right;">
--178
+-175
 </td>
 </tr>
 <tr>
@@ -614,7 +614,7 @@ Sidhu Drive</a>
 Beaver Bank
 </td>
 <td style="text-align:left;">
-$275,641
+$275,936
 </td>
 <td style="text-align:left;">
 $459,000
@@ -623,7 +623,7 @@ $459,000
 1600
 </td>
 <td style="text-align:right;">
--144
+-141
 </td>
 </tr>
 <tr>
@@ -638,7 +638,7 @@ Masons Point Road</a>
 St Margaret's...
 </td>
 <td style="text-align:left;">
-$348,574
+$349,930
 </td>
 <td style="text-align:left;">
 $575,000
@@ -647,7 +647,7 @@ $575,000
 1100
 </td>
 <td style="text-align:right;">
--141
+-138
 </td>
 </tr>
 <tr>
@@ -662,7 +662,7 @@ Cleveland Crescent</a>
 Crichton Park
 </td>
 <td style="text-align:left;">
-$301,438
+$301,234
 </td>
 <td style="text-align:left;">
 $492,000
@@ -671,7 +671,7 @@ $492,000
 1095
 </td>
 <td style="text-align:right;">
--138
+-136
 </td>
 </tr>
 <tr>
@@ -686,7 +686,7 @@ Sidhu Drive</a>
 Beaver Bank
 </td>
 <td style="text-align:left;">
-$366,369
+$364,746
 </td>
 <td style="text-align:left;">
 $569,900
@@ -695,7 +695,31 @@ $569,900
 2080
 </td>
 <td style="text-align:right;">
--124
+-123
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-06-29
+</td>
+<td style="text-align:left;">
+<a href="https://www.viewpoint.ca/property/cutsheet/202011564/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">49
+Frederick Avenue</a>
+</td>
+<td style="text-align:left;">
+Halifax
+</td>
+<td style="text-align:left;">
+$208,741
+</td>
+<td style="text-align:left;">
+$325,000
+</td>
+<td style="text-align:right;">
+894
+</td>
+<td style="text-align:right;">
+-122
 </td>
 </tr>
 <tr>
@@ -710,7 +734,7 @@ Cabot Place</a>
 North End
 </td>
 <td style="text-align:left;">
-$336,166
+$337,264
 </td>
 <td style="text-align:left;">
 $509,900
@@ -719,7 +743,7 @@ $509,900
 1126
 </td>
 <td style="text-align:right;">
--117
+-113
 </td>
 </tr>
 <tr>
@@ -734,7 +758,7 @@ Waterbury Lane</a>
 Upper Tantallon
 </td>
 <td style="text-align:left;">
-$497,561
+$497,056
 </td>
 <td style="text-align:left;">
 $749,000
@@ -743,31 +767,7 @@ $749,000
 2144
 </td>
 <td style="text-align:right;">
--114
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-06-25
-</td>
-<td style="text-align:left;">
-<a href="https://www.viewpoint.ca/property/cutsheet/202011286/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">78
-Diana Grace Avenue</a>
-</td>
-<td style="text-align:left;">
-Dartmouth
-</td>
-<td style="text-align:left;">
-$532,752
-</td>
-<td style="text-align:left;">
-$799,000
-</td>
-<td style="text-align:right;">
-2688
-</td>
-<td style="text-align:right;">
--113
+-112
 </td>
 </tr>
 <tr>
@@ -782,7 +782,7 @@ Beaver Lake Drive</a>
 Hammonds Plains
 </td>
 <td style="text-align:left;">
-$410,168
+$410,425
 </td>
 <td style="text-align:left;">
 $612,000
@@ -791,7 +791,31 @@ $612,000
 1415
 </td>
 <td style="text-align:right;">
--112
+-109
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-06-25
+</td>
+<td style="text-align:left;">
+<a href="https://www.viewpoint.ca/property/cutsheet/202011286/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">78
+Diana Grace Avenue</a>
+</td>
+<td style="text-align:left;">
+Dartmouth
+</td>
+<td style="text-align:left;">
+$536,625
+</td>
+<td style="text-align:left;">
+$799,000
+</td>
+<td style="text-align:right;">
+2688
+</td>
+<td style="text-align:right;">
+-109
 </td>
 </tr>
 <tr>
@@ -806,7 +830,7 @@ Savoy Avenue</a>
 Lucasville
 </td>
 <td style="text-align:left;">
-$243,136
+$244,469
 </td>
 <td style="text-align:left;">
 $354,900
@@ -815,7 +839,7 @@ $354,900
 960
 </td>
 <td style="text-align:right;">
--105
+-101
 </td>
 </tr>
 <tr>
@@ -830,7 +854,7 @@ Amalfi Drive</a>
 Timberlea
 </td>
 <td style="text-align:left;">
-$305,550
+$304,765
 </td>
 <td style="text-align:left;">
 $439,900
@@ -839,7 +863,7 @@ $439,900
 1678
 </td>
 <td style="text-align:right;">
--101
+-99
 </td>
 </tr>
 <tr>
@@ -854,37 +878,13 @@ Dresden Row</a>
 Downtown
 </td>
 <td style="text-align:left;">
-$364,158
+$361,678
 </td>
 <td style="text-align:left;">
 $520,000
 </td>
 <td style="text-align:right;">
 1012
-</td>
-<td style="text-align:right;">
--98
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-06-29
-</td>
-<td style="text-align:left;">
-<a href="https://www.viewpoint.ca/property/cutsheet/202011528/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">123
-Sidhu Drive</a>
-</td>
-<td style="text-align:left;">
-Beaver Bank
-</td>
-<td style="text-align:left;">
-$315,488
-</td>
-<td style="text-align:left;">
-$449,900
-</td>
-<td style="text-align:right;">
-1440
 </td>
 <td style="text-align:right;">
 -98
@@ -927,30 +927,6 @@ Value Score
 <tbody>
 <tr>
 <td style="text-align:left;">
-2020-06-22
-</td>
-<td style="text-align:left;">
-<a href="https://www.viewpoint.ca/property/cutsheet/202011014/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">16-75
-Collins Grove</a>
-</td>
-<td style="text-align:left;">
-Dartmouth
-</td>
-<td style="text-align:left;">
-$204,211
-</td>
-<td style="text-align:left;">
-$149,900
-</td>
-<td style="text-align:right;">
-825
-</td>
-<td style="text-align:right;">
-205
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 2020-06-19
 </td>
 <td style="text-align:left;">
@@ -961,7 +937,7 @@ John Parr Drive</a>
 North End
 </td>
 <td style="text-align:left;">
-$321,131
+$321,441
 </td>
 <td style="text-align:left;">
 $239,900
@@ -970,7 +946,7 @@ $239,900
 1197
 </td>
 <td style="text-align:right;">
-194
+198
 </td>
 </tr>
 <tr>
@@ -985,7 +961,7 @@ West Porter's Lake Road</a>
 Porters Lake
 </td>
 <td style="text-align:left;">
-$312,957
+$314,118
 </td>
 <td style="text-align:left;">
 $235,000
@@ -994,31 +970,31 @@ $235,000
 1092
 </td>
 <td style="text-align:right;">
-191
+196
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-2020-06-18
+2020-06-22
 </td>
 <td style="text-align:left;">
-<a href="https://www.viewpoint.ca/property/cutsheet/202010651/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">20-4
-Rose Way</a>
+<a href="https://www.viewpoint.ca/property/cutsheet/202011014/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">16-75
+Collins Grove</a>
 </td>
 <td style="text-align:left;">
 Dartmouth
 </td>
 <td style="text-align:left;">
-$263,735
+$197,414
 </td>
 <td style="text-align:left;">
-$199,900
+$149,900
 </td>
 <td style="text-align:right;">
-1384
+825
 </td>
 <td style="text-align:right;">
-185
+187
 </td>
 </tr>
 <tr>
@@ -1033,7 +1009,7 @@ Edingurgh Street</a>
 West End
 </td>
 <td style="text-align:left;">
-$519,278
+$519,498
 </td>
 <td style="text-align:left;">
 $399,900
@@ -1042,55 +1018,7 @@ $399,900
 1664
 </td>
 <td style="text-align:right;">
-176
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-06-26
-</td>
-<td style="text-align:left;">
-<a href="https://www.viewpoint.ca/property/cutsheet/202011196/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">102-7
-Forest Hills Parkway</a>
-</td>
-<td style="text-align:left;">
-Dartmouth
-</td>
-<td style="text-align:left;">
-$225,703
-</td>
-<td style="text-align:left;">
-$174,900
-</td>
-<td style="text-align:right;">
-1022
-</td>
-<td style="text-align:right;">
-172
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-06-24
-</td>
-<td style="text-align:left;">
-<a href="https://www.viewpoint.ca/property/cutsheet/202011234/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">30
-Ellerslie Crescent</a>
-</td>
-<td style="text-align:left;">
-Dartmouth
-</td>
-<td style="text-align:left;">
-$295,121
-</td>
-<td style="text-align:left;">
-$229,000
-</td>
-<td style="text-align:right;">
-1025
-</td>
-<td style="text-align:right;">
-171
+179
 </td>
 </tr>
 <tr>
@@ -1105,7 +1033,7 @@ Myra Road</a>
 Porters Lake
 </td>
 <td style="text-align:left;">
-$470,560
+$469,457
 </td>
 <td style="text-align:left;">
 $369,900
@@ -1114,7 +1042,7 @@ $369,900
 2620
 </td>
 <td style="text-align:right;">
-164
+165
 </td>
 </tr>
 <tr>
@@ -1129,7 +1057,7 @@ Chelsea Lane</a>
 Halifax
 </td>
 <td style="text-align:left;">
-$302,817
+$303,243
 </td>
 <td style="text-align:left;">
 $239,900
@@ -1138,7 +1066,7 @@ $239,900
 1452
 </td>
 <td style="text-align:right;">
-159
+163
 </td>
 </tr>
 <tr>
@@ -1153,7 +1081,7 @@ Ridgevale Drive</a>
 Bedford
 </td>
 <td style="text-align:left;">
-$517,134
+$514,804
 </td>
 <td style="text-align:left;">
 $409,900
@@ -1163,6 +1091,30 @@ $409,900
 </td>
 <td style="text-align:right;">
 159
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-06-26
+</td>
+<td style="text-align:left;">
+<a href="https://www.viewpoint.ca/property/cutsheet/202011196/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">102-7
+Forest Hills Parkway</a>
+</td>
+<td style="text-align:left;">
+Dartmouth
+</td>
+<td style="text-align:left;">
+$219,323
+</td>
+<td style="text-align:left;">
+$174,900
+</td>
+<td style="text-align:right;">
+1022
+</td>
+<td style="text-align:right;">
+158
 </td>
 </tr>
 <tr>
@@ -1177,7 +1129,7 @@ Tucker Lake Road</a>
 Beaver Bank
 </td>
 <td style="text-align:left;">
-$463,500
+$461,820
 </td>
 <td style="text-align:left;">
 $369,900
@@ -1186,31 +1138,7 @@ $369,900
 2284
 </td>
 <td style="text-align:right;">
-155
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-06-16
-</td>
-<td style="text-align:left;">
-<a href="https://www.viewpoint.ca/property/cutsheet/202010424/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">3125
-Hwy 7 Highway</a>
-</td>
-<td style="text-align:left;">
-Lake Echo
-</td>
-<td style="text-align:left;">
-$287,967
-</td>
-<td style="text-align:left;">
-$229,900
-</td>
-<td style="text-align:right;">
-1378
-</td>
-<td style="text-align:right;">
-155
+156
 </td>
 </tr>
 <tr>
@@ -1225,7 +1153,7 @@ Micmac Court</a>
 West End
 </td>
 <td style="text-align:left;">
-$479,008
+$479,564
 </td>
 <td style="text-align:left;">
 $384,900
@@ -1234,7 +1162,7 @@ $384,900
 1250
 </td>
 <td style="text-align:right;">
-151
+155
 </td>
 </tr>
 <tr>
@@ -1249,7 +1177,7 @@ Caribou Road</a>
 Middle Sackville
 </td>
 <td style="text-align:left;">
-$328,690
+$329,178
 </td>
 <td style="text-align:left;">
 $269,900
@@ -1258,7 +1186,7 @@ $269,900
 1215
 </td>
 <td style="text-align:right;">
-139
+142
 </td>
 </tr>
 <tr>
@@ -1273,7 +1201,7 @@ Lady Hammond Road</a>
 North End
 </td>
 <td style="text-align:left;">
-$657,350
+$655,104
 </td>
 <td style="text-align:left;">
 $539,900
@@ -1282,7 +1210,79 @@ $539,900
 1920
 </td>
 <td style="text-align:right;">
-139
+140
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-06-29
+</td>
+<td style="text-align:left;">
+<a href="https://www.viewpoint.ca/property/cutsheet/202011520/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">62
+Fieldwood Circle</a>
+</td>
+<td style="text-align:left;">
+Forest Hills
+</td>
+<td style="text-align:left;">
+$271,812
+</td>
+<td style="text-align:left;">
+$229,900
+</td>
+<td style="text-align:right;">
+912
+</td>
+<td style="text-align:right;">
+125
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-06-29
+</td>
+<td style="text-align:left;">
+<a href="https://www.viewpoint.ca/property/cutsheet/202011533/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">1677
+Caldwell Road</a>
+</td>
+<td style="text-align:left;">
+Eastern Passage
+</td>
+<td style="text-align:left;">
+$218,547
+</td>
+<td style="text-align:left;">
+$184,900
+</td>
+<td style="text-align:right;">
+1092
+</td>
+<td style="text-align:right;">
+125
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-06-26
+</td>
+<td style="text-align:left;">
+<a href="https://www.viewpoint.ca/property/cutsheet/202011461/?mls_style=1&amp;pp=1&amp;cl=1" style="     ">72
+Stuart Harris Drive</a>
+</td>
+<td style="text-align:left;">
+Dartmouth
+</td>
+<td style="text-align:left;">
+$217,848
+</td>
+<td style="text-align:left;">
+$184,900
+</td>
+<td style="text-align:right;">
+1120
+</td>
+<td style="text-align:right;">
+123
 </td>
 </tr>
 </tbody>
@@ -1331,7 +1331,7 @@ Gladstone Street</a>
 North End
 </td>
 <td style="text-align:left;">
-$751,492
+$749,302
 </td>
 <td style="text-align:left;">
 $689,900
@@ -1340,7 +1340,7 @@ $689,900
 2052
 </td>
 <td style="text-align:right;">
-80
+81
 </td>
 </tr>
 <tr>
@@ -1355,7 +1355,7 @@ Gladstone Street</a>
 North End
 </td>
 <td style="text-align:left;">
-$255,824
+$253,364
 </td>
 <td style="text-align:left;">
 $283,900
@@ -1364,7 +1364,7 @@ $283,900
 531
 </td>
 <td style="text-align:right;">
--6
+-8
 </td>
 </tr>
 <tr>
@@ -1379,7 +1379,7 @@ Gladstone Street</a>
 North End
 </td>
 <td style="text-align:left;">
-$736,664
+$734,620
 </td>
 <td style="text-align:left;">
 $720,000
@@ -1388,7 +1388,7 @@ $720,000
 2045
 </td>
 <td style="text-align:right;">
-50
+51
 </td>
 </tr>
 </tbody>

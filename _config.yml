@@ -65,6 +65,10 @@ include:
   - _redirects
   - .htaccess
 
+scholar:
+  style: apa
+  bibliography_list_tag: ul
+
 exclude:
   - CNAME
   - Gemfile
