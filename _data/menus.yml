@@ -18,7 +18,7 @@
   url: /projects/
   external: false
 
-- title: real estate
-  icon: mdi-home-city
-  url: /real-estate/
-  external: false
+#- title: real estate
+#  icon: mdi-home-city
+#  url: /real-estate/
+#  external: false
