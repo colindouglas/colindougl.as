@@ -23,43 +23,49 @@ B.Sc., Chemistry
 **Thesis**: "Surface Enhanced Raman Spectroscopy of Microbiological Systems"  
 
 ### EXPERIENCE
+
+**Public Services and Procurement Canada** (Ottawa, ON)  
+**Data Scientist**  
+November 2020
+
+I use the statistical programming language R to help people understand whether the policies they're implementing are working.
+
 **Precision Biologic Inc.** (Dartmouth, NS)  
 **Research and Development Scientist**  
-June 2017 - Present  
+June 2017 - November 2020
 
-Throughout 2017 and 2018, I worked on the design and development of the [CRYOcheck Factor VIII Inhibitor Kit](https://precisionbiologic.com/products/diagnostic-kits/cryocheck-factor-viii-inhibitor-kit), a standardized set of reagents used to quantify inhibitory antibodies in patients with hemophilia A. This involved measuring the the stability, precision, and equivalency of the kit, as well as the effects of common interferents. In early 2019, we received [FDA 510(k) clearance](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K183440) of the kit as a class II medical device, the first successful 510(k) application at PBI in fourteen years.
-
-In parallel, I developed and implemented a comprehensive system for managing the data we produce throughout our device validation work. Results from our instruments are exported, tidied, and analyzed with minimal user interaction. The process is powered by [R, a statistical programming language](https://www.r-project.org/about.html), and replaced a system where data were stored on paper printouts and analyzed in spreadsheets.
-
-I currently work on developing medical devices that rapidly and inexpensively detect lupus anticoagulants in human plasma.
+I helped develop and clear two medical devices:
+ * [CryoCheck Factor VIII Inhibitor Kit](https://precisionbiologic.com/products/diagnostic-kits/cryocheck-factor-viii-inhibitor-kit), which detects inhibitory factor VIII antibodies ([K183440](https://www.accessdata.fda.gov/cdrh_docs/pdf18/K183440.pdf))
+ * [CryoCheck Hex LA](https://precisionbiologic.com/products/diagnostic-kits/cryocheck-hex-la), which detects lupus anticoagulant through the neutralization of hexagonal phase phospholipid ([K193556](https://www.accessdata.fda.gov/cdrh_docs/reviews/K193556.pdf))
 
 **Faculty of Medicine, Dalhousie University** (Halifax, NS)  
 **Killam Postdoctoral Fellow**  
 April 2015 - May 2017
 
-I held a research fellowship in the lab of [Dr. Stephen Bearne](https://www.dal.ca/faculty/science/chemistry/faculty-staff/our-faculty/stephen-bearne.html) in the Department of Biochemistry. The Bearne Lab deals in fundamental enzymology aiming to understand the relationship between structure, function, and mechanism.
-
-In the first year of my fellowship, I worked on developing a novel methods of inserting NMR-active nuclei into the active site of an enzyme, through a combination of amber stop codon suppression and photocaging.
-
-My second year was spent studying mechanism-based inhibitors of enolase enzymes. We discovered a class of boronate-based molecules that show a slow, tight binding profile to the mandelate racemase. I used multivariate non-linear curve fitting to suss out the different steps in the inhibition mechanism, and demonstrated that one molecule we worked with was the tightest known inhibitor of it's target enzyme.
+I studied mechanism-based inhibitors of enolase enzymes. In one project, I used multivariate non-
+linear curve fitting to suss out the different steps in an inhibition mechanism, and demonstrated
+that one molecule we worked with was the tightest known inhibitor of it’s target enzyme.
 
 ### POSTERS, PRESENTATIONS, AND PAPERS
 ---------------------
+
+  * C.D. Douglas, L. Grandinetti, N.M. Easton, O.P. Kuehm, J.A. Hyaden, M.C. Hamilton, M. St. Maurice, S.L. Bearne. (2021). [MSlow-Onset, Potent Inhibition of Mandelate Racemase by 2-Formylphenylboronic Acid. An Unexpected Adduct Clasps the Catalytic Machinery](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.1c00374). Biochemistry 60, 2508-18. <small>[[ft](https://sci-hub.st/https://doi.org/10.1021/acs.biochem.1c00374)]</small>
+  * C.D. Douglas, R. Clarke, N. Kesavan, D. Lamont, A. Sadeghi-Khomami, A. Wood, K.M. Black (Oct 2020). *[Comparison of Hexagonal Phase Phospholipid Neutralization Assays for Lupus Anticoagulant Detection](https://precisionbiologic.com/sites/default/files/resources/pbi_thsna_2020_comparison_hpnts_for_la_detection.pdf)*. Poster presented at the THSNA 2020 Virtual Conference.
   * C.D. Douglas, R. Clarke, N. Kesavan, D. Lamont, A. Sadeghi-Khomami, A. Wood, K.M. Black (July 2020). *[Laboratory Validation of a Novel Hexagonal Phase Phospholipid Neutralization Assay for Lupus Anticoagulant Detection](https://abstracts.isth.org/abstract/laboratory-validation-of-a-novel-hexagonal-phase-phospholipid-neutralization-assay-for-lupus-anticoagulant-detection/)*. Poster presented at the ISTH Virtual Congress.
   * C.D. Douglas, A. Wood, A. Sadeghi-Khomami, K.M. Black (September 2019). *[Effects of Common Interferents in Hexagonal Phase Phospholipid Neutralization Testing](https://precisionbiologic.com/sites/default/files/resources/common_interferents_in_hpnt_icapa_2019_handout.pdf)*. Poster presented at the 16th International Congress on Antiphospholipid Antibodies, Manchester, UK.
-  * C.M. Fetter, Z.A. Morrison, M. Nagar, C.D. Douglas, S.L. Bearne, (2019). [Altering the Y137-K164-K166 triad of mandelate racemase and its effect on the observed pKa of the Brønsted base catalysts](https://www.sciencedirect.com/science/article/abs/pii/S0003986118310312). *Arch. Biochem. Biophys.* **666**, 116-126. <small>[[ft](https://sci-hub.tw/10.1016/j.abb.2019.03.011)]</small>
-  * C.D. Douglas, T. Quinton, E. Cabanban, K.M. Black, A. Sadeghi-Khomami, (December 2018). *[A Standardized Kit for a Chromogenic Modified Nijmegen-Bethesda Assay](https://precisionbiologic.com/sites/default/files/resources/a_standardized_kit_for_a_chromogenic_mnba_ash_2018_handout.pdf)*. Poster presented at the 60th ASH Annual Meeting, San Diego, CA.
+  * C.M. Fetter, Z.A. Morrison, M. Nagar, C.D. Douglas, S.L. Bearne (2019). [Altering the Y137-K164-K166 triad of mandelate racemase and its effect on the observed pKa of the Brønsted base catalysts](https://www.sciencedirect.com/science/article/abs/pii/S0003986118310312). *Arch. Biochem. Biophys.* **666**, 116-126. <small>[[ft](https://sci-hub.st/10.1016/j.abb.2019.03.011)]</small>
+  * C.D. Douglas, T. Quinton, E. Cabanban, K.M. Black, A. Sadeghi-Khomami (December 2018). *[A Standardized Kit for a Chromogenic Modified Nijmegen-Bethesda Assay](https://precisionbiologic.com/sites/default/files/resources/a_standardized_kit_for_a_chromogenic_mnba_ash_2018_handout.pdf)*. Poster presented at the 60th ASH Annual Meeting, San Diego, CA.
   * C.D. Douglas, S.L. Bearne (June 2017). *2-Formylphenylboronate, a Potent Inhibitor of Mandelate Racemase*. Oral presentation at the 100th Canadian Chemistry Conference and Exhibition, Toronto, ON.
-  * M.J. Lacasse, C.D. Douglas, D.B. Zamble, (2016). [Mechanism of Selective Nickel Transfer from Hydrogenase Accessory Proteins](https://pubs.acs.org/doi/10.1021/acs.biochem.6b00706). Biochemistry 55, 6821–31. <small>[[ft](https://sci-hub.tw/10.1021/acs.biochem.6b00706)]</small>
+  * M.J. Lacasse, C.D. Douglas, D.B. Zamble (2016). [Mechanism of Selective Nickel Transfer from Hydrogenase Accessory Proteins](https://pubs.acs.org/doi/10.1021/acs.biochem.6b00706). Biochemistry 55, 6821–31. <small>[[ft](https://sci-hub.st/10.1021/acs.biochem.6b00706)]</small>
   * C.D. Douglas, D.B. Zamble (January 2014). *The role of accessory proteins in the nickel insertion step of E. coli [NiFe] hydrogenase maturation*. Oral presentation at the Gordon Conference on Metals in Biology, Ventura, CA.
-  * C.D. Douglas, T.T. Ngu, H. Kaluarachchi, D.B. Zamble, (2013). [Metal Transfer within the	*Escherichia coli* HypB–HypA Complex of Hydrogenase Accessory Proteins](https://pubs.acs.org/doi/10.1021/bi400812r). *Biochemistry* **52**, 6030–6039. <small>[[ft](https://sci-hub.tw/10.1021/bi400812r)]</small>
-  * A.M. Sydor, M. Jost, K.S. Ryan, K.E. Turo, C.D. Douglas, C.L. Drennan, D.B. Zamble, (2013). [Metal binding properties of Escherichia coli YjiA, a member of the metal homeostasis-associated COG0523 family of GTPases](https://pubs.acs.org/doi/abs/10.1021/bi301600z). *Biochemistry* **52**, 1788–1801.  <small>[[ft](https://sci-hub.tw/10.1021/bi301600z)]</small>
-  * C.D. Douglas, A.D. Dias, D.B. Zamble, (2012). [The metal selectivity of a short peptide maquette imitating the high-affinity metal-binding site of *E. coli* HypB](https://pubs.rsc.org/en/content/articlelanding/2012/dt/c2dt30132f). *Dalton Trans.* **41**, 7876–7878.  <small>[[ft](https://sci-hub.tw/10.1039/c2dt30132f)]</small>
+  * C.D. Douglas, T.T. Ngu, H. Kaluarachchi, D.B. Zamble (2013). [Metal Transfer within the	*Escherichia coli* HypB–HypA Complex of Hydrogenase Accessory Proteins](https://pubs.acs.org/doi/10.1021/bi400812r). *Biochemistry* **52**, 6030–6039. <small>[[ft](https://sci-hub.st/10.1021/bi400812r)]</small>
+  * A.M. Sydor, M. Jost, K.S. Ryan, K.E. Turo, C.D. Douglas, C.L. Drennan, D.B. Zamble (2013). [Metal binding properties of Escherichia coli YjiA, a member of the metal homeostasis-associated COG0523 family of GTPases](https://pubs.acs.org/doi/abs/10.1021/bi301600z). *Biochemistry* **52**, 1788–1801.  <small>[[ft](https://sci-hub.st/10.1021/bi301600z)]</small>
+  * C.D. Douglas, A.D. Dias, D.B. Zamble (2012). [The metal selectivity of a short peptide maquette imitating the high-affinity metal-binding site of *E. coli* HypB](https://pubs.rsc.org/en/content/articlelanding/2012/dt/c2dt30132f). *Dalton Trans.* **41**, 7876–7878.  <small>[[ft](https://sci-hub.st/10.1039/c2dt30132f)]</small>
   * C.D. Douglas, A.D. Dias, D.B. Zamble (June 2010). *Probing the Selectivity of a High-Affinity Metal-Binding Peptide*. Poster presentation at the 93rd Canadian Chemistry Conference and Exhibition, Toronto, ON.
-  * T. Smith-Palmer, C.D. Douglas, P. Fredericks, (2010). [Rationalizing the SER spectra of bacteria](https://www.sciencedirect.com/science/article/abs/pii/S0924203110000469). *Vib. Spectrosc.* **53**, 103–106. <small>[[ft](https://sci-hub.tw/10.1016/j.vibspec.2010.02.012)]</small>
-  * J.W.D. Comeau, J. Pink, E. Bezanson, C.D. Douglas, D. Pink, T. Smith-Palmer, (2009). [A comparison of *Pseudomonas aeruginosa* biofilm development on ZnSe and TiO2 using attenuated total reflection Fourier transform infrared spectroscopy](https://journals.sagepub.com/doi/abs/10.1366/000370209789379259). *Appl. Spectrosc.* **63**, 1000–1007. <small>[[ft](https://sci-hub.tw/10.1366/000370209789379259)]</small>
-  * M. Kazanci, J.P. Schulte, C.D. Douglas, P. Fratzl, D. Pink, T. Smith-Palmer, (2009). [Tuning the	surface-enhanced Raman scattering effect to different molecular groups by switching the silver colloid solution pH](https://journals.sagepub.com/doi/abs/10.1366/000370209787391987). *Appl. Spectrosc.* **63**, 214–223. <small>[[ft](https://sci-hub.tw/10.1366/000370209787391987)]</small>
-  * D.T. Walker, C.D. Douglas, B.J. MacLean, (2009). [Synthesis, characterization, and surface studies of conjugated polymers possessing 2,2'-biimidazole moieties](https://www.nrcresearchpress.com/doi/full/10.1139/V09-055). *Can. J. Chem.* **87**, 729–737. <small>[[ft](https://www.nrcresearchpress.com/doi/pdf/10.1139/V09-055)]</small>
+  * T. Smith-Palmer, C.D. Douglas, P. Fredericks (2010). [Rationalizing the SER spectra of bacteria](https://www.sciencedirect.com/science/article/abs/pii/S0924203110000469). *Vib. Spectrosc.* **53**, 103–106. <small>[[ft](https://sci-hub.st/10.1016/j.vibspec.2010.02.012)]</small>
+  * J.W.D. Comeau, J. Pink, E. Bezanson, C.D. Douglas, D. Pink, T. Smith-Palmer (2009). [A comparison of *Pseudomonas aeruginosa* biofilm development on ZnSe and TiO2 using attenuated total reflection Fourier transform infrared spectroscopy](https://journals.sagepub.com/doi/abs/10.1366/000370209789379259). *Appl. Spectrosc.* **63**, 1000–1007. <small>[[ft](https://sci-hub.st/10.1366/000370209789379259)]</small>
+  * M. Kazanci, J.P. Schulte, C.D. Douglas, P. Fratzl, D. Pink, T. Smith-Palmer (2009). [Tuning the	surface-enhanced Raman scattering effect to different molecular groups by switching the silver colloid solution pH](https://journals.sagepub.com/doi/abs/10.1366/000370209787391987). *Appl. Spectrosc.* **63**, 214–223. <small>[[ft](https://sci-hub.st/10.1366/000370209787391987)]</small>
+  * D.T. Walker, C.D. Douglas, B.J. MacLean (2009). [Synthesis, characterization, and surface studies of conjugated polymers possessing 2,2'-biimidazole moieties](https://www.nrcresearchpress.com/doi/full/10.1139/V09-055). *Can. J. Chem.* **87**, 729–737. <small>[[ft](https://www.nrcresearchpress.com/doi/pdf/10.1139/V09-055)]</small>
   * C.D. Douglas, D. Pink, T. Smith-Palmer (2009, June). *Surface-enhanced Raman Scattering of Microbiological Systems*. Poster presentation at the 92nd Canadian Chemistry Conference and Exhibition, Hamilton, ON.
 
 ### AWARDS AND RECOGNITION
@@ -78,7 +84,7 @@ My second year was spent studying mechanism-based inhibitors of enolase enzymes.
 ### TECHNICAL STRENGTHS
 <p style="display: none;">some keywords for your ATS:</p>
 
-**Data Science**         |  R, Python, SQL, web scraping, automated report generation
+**Data Science**         |  R, SQL, time series forecasting, web scraping, automated report generation
 **Clinical Chemistry**   |  Coagulation, assay development and validation, FDA 510(k) program, regulation of medical devices
 **Molecular Biology**    |  Molecular cloning, protein expression and purification, enzyme kinetics, structure-function
 **Analytical Chemistry** |  HPLC, mass spectrometry, Raman spectroscopy, circular dichroism

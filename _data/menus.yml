@@ -3,22 +3,32 @@
   url: /
   external: false
 
-- title: about
-  icon: mdi-face
-  url: /about/
-  external: false
+- title: github
+  icon: mdi-github
+  url: http://www.github.com/colindouglas
+  external: true
 
-- title: c.v.
-  icon: mdi-beaker
-  url: /cv/
-  external: false
+- title: twitter
+  icon: mdi-twitter
+  url: http://www.twitter.com/colindouglas
+  external: true
 
-- title: projects
-  icon: mdi-crane
-  url: /projects/
-  external: false
+# - title: about
+#  icon: mdi-face
+#  url: /about/
+#  external: false
 
-#- title: real estate
+# - title: c.v.
+#  icon: mdi-beaker
+#  url: /cv/
+#  external: false
+
+# - title: projects
+#   icon: mdi-crane
+#   url: /projects/
+#   external: false
+
+# - title: real estate
 #  icon: mdi-home-city
 #  url: /real-estate/
 #  external: false

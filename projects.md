@@ -12,12 +12,12 @@ back to a [question you'd like to save](http://colindouglas.pythonanywhere.com/q
 
 ---
 
-### [Vistaguide](https://colindougl.as/vistaguide)  
+### [Vistaguide](https://colindougl.as/real-estate)  
 Data on real estate listings
 in Nova Scotia. This project scrapes listings from various real estate
 directories and compiles them, looking for trends and anything else interesting.
 The back end is written in Python using Selenium, while the analysis (and
-subsequent modelling) is done in R.
+modelling) is done in R.
 
 ---
 
