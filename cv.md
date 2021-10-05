@@ -14,12 +14,12 @@ comments: false
 ### EDUCATION
 **University of Toronto**,  Toronto, ON  
 Ph.D., [Biological and Organic Chemistry](https://www.chemistry.utoronto.ca/research/biological-and-organic-chemistry)  
-**Supervisor**: [Dr. Deborah Zamble](http://biochemistry.utoronto.ca/person/deborah-b-zamble/)  
+**Supervisor**: [Dr. Deborah Zamble](https://www.theglobeandmail.com/life/article-prof-deborah-zamble-wouldnt-use-a-cellphone-but-loved-connecting-over/)  
 **Thesis**: [Metal Specificity in [NiFe] Hydrogenase Maturation Proteins](https://tspace.library.utoronto.ca/handle/1807/69030)
 
 **St. Francis Xavier University**, Antigonish, NS  
 B.Sc., Chemistry  
-**Supervisor**: [Dr. Truis Smith-Palmer](https://www2.mystfx.ca/chemistry/truis-smith-palmer)  
+**Supervisor**: [Dr. Truis Smith-Palmer](https://www.mystfx.ca/chemistry/chemistry/chemistry/truis-smith-palmer)  
 **Thesis**: "Surface Enhanced Raman Spectroscopy of Microbiological Systems"  
 
 ### EXPERIENCE

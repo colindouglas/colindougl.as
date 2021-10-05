@@ -3,6 +3,11 @@
   url: /
   external: false
 
+- title: c.v.
+  icon: mdi-beaker
+  url: /cv/
+  external: false
+
 - title: github
   icon: mdi-github
   url: http://www.github.com/colindouglas
@@ -18,10 +23,7 @@
 #  url: /about/
 #  external: false
 
-# - title: c.v.
-#  icon: mdi-beaker
-#  url: /cv/
-#  external: false
+
 
 # - title: projects
 #   icon: mdi-crane
