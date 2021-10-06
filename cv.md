@@ -28,7 +28,7 @@ B.Sc., Chemistry
 **Data Scientist**  
 November 2020
 
-I use the statistical programming language R to help people understand whether the policies they're implementing are working.
+I use [R, a statistical programming language](https://www.r-project.org/), to help people understand whether the policies they're implementing are working.
 
 **Precision Biologic Inc.** (Dartmouth, NS)  
 **Research and Development Scientist**  
@@ -49,7 +49,7 @@ that one molecule we worked with was the tightest known inhibitor of it’s targ
 ### POSTERS, PRESENTATIONS, AND PAPERS
 ---------------------
 
-  * C.D. Douglas, L. Grandinetti, N.M. Easton, O.P. Kuehm, J.A. Hyaden, M.C. Hamilton, M. St. Maurice, S.L. Bearne. (2021). [MSlow-Onset, Potent Inhibition of Mandelate Racemase by 2-Formylphenylboronic Acid. An Unexpected Adduct Clasps the Catalytic Machinery](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.1c00374). Biochemistry 60, 2508-18. <small>[[ft](https://sci-hub.st/https://doi.org/10.1021/acs.biochem.1c00374)]</small>
+  * C.D. Douglas, L. Grandinetti, N.M. Easton, O.P. Kuehm, J.A. Hyaden, M.C. Hamilton, M. St. Maurice, S.L. Bearne. (2021). [Slow-Onset, Potent Inhibition of Mandelate Racemase by 2-Formylphenylboronic Acid. An Unexpected Adduct Clasps the Catalytic Machinery](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.1c00374). Biochemistry 60, 2508-18. <small>[[ft](https://sci-hub.st/https://doi.org/10.1021/acs.biochem.1c00374)]</small>
   * C.D. Douglas, R. Clarke, N. Kesavan, D. Lamont, A. Sadeghi-Khomami, A. Wood, K.M. Black (Oct 2020). *[Comparison of Hexagonal Phase Phospholipid Neutralization Assays for Lupus Anticoagulant Detection](https://precisionbiologic.com/sites/default/files/resources/pbi_thsna_2020_comparison_hpnts_for_la_detection.pdf)*. Poster presented at the THSNA 2020 Virtual Conference.
   * C.D. Douglas, R. Clarke, N. Kesavan, D. Lamont, A. Sadeghi-Khomami, A. Wood, K.M. Black (July 2020). *[Laboratory Validation of a Novel Hexagonal Phase Phospholipid Neutralization Assay for Lupus Anticoagulant Detection](https://abstracts.isth.org/abstract/laboratory-validation-of-a-novel-hexagonal-phase-phospholipid-neutralization-assay-for-lupus-anticoagulant-detection/)*. Poster presented at the ISTH Virtual Congress.
   * C.D. Douglas, A. Wood, A. Sadeghi-Khomami, K.M. Black (September 2019). *[Effects of Common Interferents in Hexagonal Phase Phospholipid Neutralization Testing](https://precisionbiologic.com/sites/default/files/resources/common_interferents_in_hpnt_icapa_2019_handout.pdf)*. Poster presented at the 16th International Congress on Antiphospholipid Antibodies, Manchester, UK.
