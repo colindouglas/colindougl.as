@@ -2,4 +2,4 @@
 
 Deploys via Netlify.
 
-Visit https://www.colindougl.as to see it in action
+Visit https://colindougl.as or https://douglas.science to see it in action
