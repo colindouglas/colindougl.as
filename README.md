@@ -1,5 +1,5 @@
 # colindougl.as
 
-This doesn't get deployed anymore, so there's nothing interesting here.
+Deploys via Netlify.
 
 Visit https://www.colindougl.as to see it in action
