@@ -25,8 +25,8 @@ B.Sc., Chemistry
 ### EXPERIENCE
 
 **Public Services and Procurement Canada** (Ottawa, ON)  
-**Senior Analyst (EC-06)**, February 2022 - Present  
-**Data Scientist (EC-04)**, November 2020 - February 2022
+**Senior Analyst** (EC-06), February 2022 - Present  
+**Data Scientist** (EC-04), November 2020 - February 2022
 
 I use [R, a statistical programming language](https://www.r-project.org/), to help people understand whether the policies they're implementing are working.
 
