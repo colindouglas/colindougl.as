@@ -8,6 +8,11 @@
   url: /cv/
   external: false
 
+- title: gpg
+  icon: mdi-key
+  url: /gpg
+  external: false
+
 - title: github
   icon: mdi-github
   url: http://www.github.com/colindouglas
