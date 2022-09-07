@@ -9,7 +9,7 @@
   external: false
 
 - title: pgp
-  icon: mdi-key-chain
+  icon: mdi-account-key
   url: /pgp
   external: false
 
@@ -27,8 +27,6 @@
 #  icon: mdi-face
 #  url: /about/
 #  external: false
-
-
 
 # - title: projects
 #   icon: mdi-crane
