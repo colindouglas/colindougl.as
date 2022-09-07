@@ -16,12 +16,12 @@ author:
   github: colindouglas
   linkedin: colinddouglas
   twitter: colindouglas
-  email: him@colindougl.as
+  email: me@colindougl.as
   phone: (902) 418-5666
   avatar: /assets/img/avatar.jpg
 
 # Url settings
-url: "https://www.colindougl.as"
+url: "https://colindougl.as"
 baseurl:
 permalink: /:title/
 google_analytics:
