@@ -5,7 +5,7 @@ title: public key
 permalink: /pgp
 ---
 
-[plain text](./pgp.txt)
+[plain text](/pgp.txt)
 
 
 ```
