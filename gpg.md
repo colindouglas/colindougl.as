@@ -1,7 +1,7 @@
 ---
 layout: page
-titlebar: Public Key
-title: Public Key
+titlebar: public key
+title: public key
 permalink: /gpg
 ---
 
