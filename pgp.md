@@ -2,10 +2,10 @@
 layout: page
 titlebar: public key
 title: public key
-permalink: /gpg
+permalink: /pgp
 ---
 
-[plain text](./gpg.txt)
+[plain text](./pgp.txt)
 
 
 ```

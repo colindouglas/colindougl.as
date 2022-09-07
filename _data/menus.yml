@@ -8,9 +8,9 @@
   url: /cv/
   external: false
 
-- title: gpg
-  icon: mdi-key
-  url: /gpg
+- title: pgp
+  icon: mdi-key-chain
+  url: /pgp
   external: false
 
 - title: github
