@@ -11,30 +11,28 @@ comments: false
 <span class="mdi mdi-email-open"></span> [{{ site.author.email }}](mailto:{{ site.author.email }})  
 <span class="mdi mdi-linkedin"></span> [linkedin.com/in/colinddouglas](https://www.linkedin.com/in/colinddouglas/)
 
-### EDUCATION
-**University of Toronto**,  Toronto, ON  
-Ph.D., [Biological and Organic Chemistry](https://www.chemistry.utoronto.ca/research/biological-and-organic-chemistry)  
-**Supervisor**: [Dr. Deborah Zamble](https://www.theglobeandmail.com/life/article-prof-deborah-zamble-wouldnt-use-a-cellphone-but-loved-connecting-over/)  
-**Thesis**: [Metal Specificity in [NiFe] Hydrogenase Maturation Proteins](https://tspace.library.utoronto.ca/handle/1807/69030)
-
-**St. Francis Xavier University**, Antigonish, NS  
-B.Sc., Chemistry  
-**Supervisor**: [Dr. Truis Smith-Palmer](https://www.mystfx.ca/chemistry/chemistry/chemistry/truis-smith-palmer)  
-**Thesis**: "Surface Enhanced Raman Spectroscopy of Microbiological Systems"  
+My name is Colin. I have a biochemistry-ish Ph.D. and I really like the R programming language. I've made a career of poking around in big data sets and telling stories that decision-makers find interesting.
 
 ### EXPERIENCE
 
-**Public Services and Procurement Canada** (Ottawa, ON)  
+
+**Canadian Digital Service** (Remote/Ottawa, ON)<br>
+**Senior Advisor, Strategic Data and Reporting**, October 2024 - Present
+
+I currently work at the [Canadian Digital Service](https://digital.canada.ca/). They do really good work in [digital transformation](https://en.wikipedia.org/wiki/Digital_transformation) space. I am helping them organize their data and tell stories about the aforementioned good work.
+
+
+**Public Services and Procurement Canada** (Remote/Ottawa, ON)  
 **Senior Data Scientist**, February 2022 - October 2024  
 **Data Scientist**, November 2020 - February 2022
 
-I was the primary data scientist for various incarnations of what was once called the [Pay Administration Branch](https://www.canada.ca/en/public-services-procurement/services/pay-pension/pay-administration/integrated-strategy-human-resources-pay.html). I used the (R programming language)[https://en.wikipedia.org/wiki/R_(programming_language)] to help people understand whether the policies they were implementing were working.
+I was the primary data scientist for various incarnations of what was once called the [Pay Administration Branch](https://www.canada.ca/en/public-services-procurement/services/pay-pension/pay-administration/integrated-strategy-human-resources-pay.html). I used the [R programming language](https://en.wikipedia.org/wiki/R_(programming_language)) to help people understand whether the policies they were implementing were working.
 
-I spent the first half of my tenure at Pay doing short- and medium-term time series modelling, on the scale of weeks to months. These forecasts fed into reporting upwards to the [DM level](https://en.wikipedia.org/wiki/Deputy_minister_(Canada)) and outwards to operational units. I provided guidance on things like resource determiniation, productivity measurements, and measuring the touch time of individual pieces of work.
+I spent the first half of my tenure at Pay doing short- and medium-term time series modelling, on the scale of weeks to months. These forecasts fed into reporting upwards to the [DM level](https://en.wikipedia.org/wiki/Deputy_minister_(Canada)) and outwards to [operational units](https://www.canada.ca/en/public-services-procurement/services/pay-pension/pay-administration/pay-centre-resources/about-pay-centre.html). I provided guidance on things like resource determiniation, productivity measurements, and measuring the labour involved in individual pieces of work.
 
-The second half of my time working at Pay, I used [agent-based modelling](https://en.wikipedia.org/wiki/Agent-based_model) to help forecast the long-term impact of [certain policy and budget decisions](https://nationalpost.com/opinion/phoenix-payroll-civil-servants). Although this was a math-heavy project, I also spent a lot of my time explaining my work to smart-but-not-technical people. My contributions were an important part of the Pay Program's Budget requests and consistently resulted in favourable funding decisions.
+The second half of my time working at Pay, I used [agent-based modelling](https://en.wikipedia.org/wiki/Agent-based_model) to simulate the pay system and help forecast the long-term impact of [certain policy and budget decisions](https://nationalpost.com/opinion/phoenix-payroll-civil-servants). Although this was a modelling-heavy project, I also spent a lot of my time explaining my work to smart-but-not-technical people. My contributions were an important part of the Pay Program's budget requests and consistently resulted in favourable funding decisions.
 
-I also spent a lot of time advocating for the use of open source software (especially the R ecosystem) for making analyses reproducible. I have a lot of strong opinions on it and would love to talk to you about it! I have presented on the subject many times to many different government audiences, and you can see an example presentation here: [Using R for Reproducible Reporting](https://docs.google.com/presentation/d/1ZJkvxSAzuyCLT_QPmDiMKSto27Vmw4MV/edit?usp=sharing&ouid=105826761141236817793&rtpof=true&sd=true).
+I also spent a lot of time advocating for the adoption of open source software (especially the R ecosystem) for making [analyses reproducible](https://poldrack.github.io/psych-open-science-guide/4_reproducibleanalysis.html). I have a lot of strong opinions on it and would love to talk to you about it! I have presented on the subject many times to many different government audiences, and you can see an example presentation here: [Using R for Reproducible Reporting](https://docs.google.com/presentation/d/1ZJkvxSAzuyCLT_QPmDiMKSto27Vmw4MV/edit?usp=sharing&ouid=105826761141236817793&rtpof=true&sd=true).
 
 **Precision Biologic Inc.** (Dartmouth, NS)  
 **Research and Development Scientist**  
@@ -51,6 +49,17 @@ April 2015 - May 2017
 I studied mechanism-based inhibitors of enolase enzymes. In one project, I used multivariate non-
 linear curve fitting to suss out the different steps in an inhibition mechanism, and demonstrated
 that one molecule we worked with was the tightest known inhibitor of it’s target enzyme.
+
+### EDUCATION
+**University of Toronto**,  Toronto, ON  
+Ph.D., [Biological and Organic Chemistry](https://www.chemistry.utoronto.ca/research/biological-and-organic-chemistry)  
+**Supervisor**: [Dr. Deborah Zamble](https://www.theglobeandmail.com/life/article-prof-deborah-zamble-wouldnt-use-a-cellphone-but-loved-connecting-over/)  
+**Thesis**: [Metal Specificity in [NiFe] Hydrogenase Maturation Proteins](https://tspace.library.utoronto.ca/handle/1807/69030)
+
+**St. Francis Xavier University**, Antigonish, NS  
+B.Sc., Chemistry  
+**Supervisor**: [Dr. Truis Smith-Palmer](https://www.mystfx.ca/chemistry/chemistry/chemistry/truis-smith-palmer)  
+**Thesis**: "Surface Enhanced Raman Spectroscopy of Microbiological Systems"  
 
 ### POSTERS, PRESENTATIONS, AND PAPERS
 ---------------------
@@ -76,6 +85,8 @@ that one molecule we worked with was the tightest known inhibitor of it’s targ
 
 ### AWARDS AND RECOGNITION
 
+2023          |  ADM Achievement Award, Pay Administration Branch
+2021          |  ADM Achievement Award, HR-to-Pay Program Office
 2015 - 2017   |  Killam Postdoctoral Fellowship, Dalhousie University
 2010 - 2013   |  Alexander Graham Bell Scholarship, (CGS-D), NSERC
 2009 - 2010   |  Alexander Graham Bell Scholarship, (CGS-M), NSERC
