@@ -25,10 +25,16 @@ B.Sc., Chemistry
 ### EXPERIENCE
 
 **Public Services and Procurement Canada** (Ottawa, ON)  
-**Senior Analyst** (EC-06), February 2022 - Present  
-**Data Scientist** (EC-04), November 2020 - February 2022
+**Senior Data Scientist**, February 2022 - October 2024  
+**Data Scientist**, November 2020 - February 2022
 
-I use [R, a statistical programming language](https://www.r-project.org/), to help people understand whether the policies they're implementing are working.
+I was the primary data scientist for various incarnations of what was once called the [Pay Administration Branch](https://www.canada.ca/en/public-services-procurement/services/pay-pension/pay-administration/integrated-strategy-human-resources-pay.html). I used the (R programming language)[https://en.wikipedia.org/wiki/R_(programming_language)] to help people understand whether the policies they were implementing were working.
+
+I spent the first half of my tenure at Pay doing short- and medium-term time series modelling, on the scale of weeks to months. These forecasts fed into reporting upwards to the [DM level](https://en.wikipedia.org/wiki/Deputy_minister_(Canada)) and outwards to operational units. I provided guidance on things like resource determiniation, productivity measurements, and measuring the touch time of individual pieces of work.
+
+The second half of my time working at Pay, I used [agent-based modelling](https://en.wikipedia.org/wiki/Agent-based_model) to help forecast the long-term impact of [certain policy and budget decisions](https://nationalpost.com/opinion/phoenix-payroll-civil-servants). Although this was a math-heavy project, I also spent a lot of my time explaining my work to smart-but-not-technical people. My contributions were an important part of the Pay Program's Budget requests and consistently resulted in favourable funding decisions.
+
+I also spent a lot of time advocating for the use of open source software (especially the R ecosystem) for making analyses reproducible. I have a lot of strong opinions on it and would love to talk to you about it! I have presented on the subject many times to many different government audiences, and you can see an example presentation here: [Using R for Reproducible Reporting](https://docs.google.com/presentation/d/1ZJkvxSAzuyCLT_QPmDiMKSto27Vmw4MV/edit?usp=sharing&ouid=105826761141236817793&rtpof=true&sd=true).
 
 **Precision Biologic Inc.** (Dartmouth, NS)  
 **Research and Development Scientist**  
