@@ -11,16 +11,21 @@ comments: false
 <span class="mdi mdi-email-open"></span> [{{ site.author.email }}](mailto:{{ site.author.email }})  
 <span class="mdi mdi-linkedin"></span> [linkedin.com/in/colinddouglas](https://www.linkedin.com/in/colinddouglas/)
 
-My name is Colin. I have a biochemistry-ish Ph.D. and I really like the R programming language. I've made a career of poking around in big data sets and telling stories that decision-makers find interesting.
+My name is Colin. I have a biochemistry-ish Ph.D. and I really like the R programming 
+language. I've made a career of poking around in big data sets and telling stories that 
+decision-makers find interesting.
 
 ### EXPERIENCE
 
 
 **Canadian Digital Service** (Remote/Ottawa, ON)<br>
-**Senior Advisor, Strategic Data and Reporting**, October 2024 - Present
+**Senior Analyst, Enterprise Digital Credentials**, October 2025 - Present  
+**Senior Advisor, Strategic Data and Reporting**, October 2024 - October 2025
 
-I currently work at the [Canadian Digital Service](https://digital.canada.ca/). They do really good work in [digital transformation](https://en.wikipedia.org/wiki/Digital_transformation) space. I am helping them organize their data and tell stories about the aforementioned good work.
 
+I currently work at the [Canadian Digital Service](https://digital.canada.ca/). CDS does
+really good work work in [digital transformation](https://en.wikipedia.org/wiki/Digital_transformation) 
+space. I help organize our data and tell stories about the aforementioned good work.
 
 **Public Services and Procurement Canada** (Remote/Ottawa, ON)  
 **Senior Data Scientist**, February 2022 - October 2024  
@@ -28,7 +33,7 @@ I currently work at the [Canadian Digital Service](https://digital.canada.ca/). 
 
 I was the primary data scientist for various incarnations of what was once called the [Pay Administration Branch](https://www.canada.ca/en/public-services-procurement/services/pay-pension/pay-administration/integrated-strategy-human-resources-pay.html). I used the [R programming language](https://en.wikipedia.org/wiki/R_(programming_language)) to help people understand whether the policies they were implementing were working.
 
-I spent the first half of my tenure at Pay doing short- and medium-term time series modelling, on the scale of weeks to months. These forecasts fed into reporting upwards to the [DM level](https://en.wikipedia.org/wiki/Deputy_minister_(Canada)) and outwards to [operational units](https://www.canada.ca/en/public-services-procurement/services/pay-pension/pay-administration/pay-centre-resources/about-pay-centre.html). I provided guidance on things like resource determiniation, productivity measurements, and measuring the labour involved in individual pieces of work.
+I spent the first half of my tenure at Pay doing short- and medium-term time series modelling, on the scale of weeks to months. These forecasts fed into reporting upwards to the [DM level](https://en.wikipedia.org/wiki/Deputy_minister_(Canada)) and outwards to [operational units](https://www.canada.ca/en/public-services-procurement/services/pay-pension/pay-administration/pay-centre-resources/about-pay-centre.html). I provided guidance on things like resource determiniation, productivity metrics, and measuring the labour involved in individual pieces of work.
 
 The second half of my time working at Pay, I used [agent-based modelling](https://en.wikipedia.org/wiki/Agent-based_model) to simulate the pay system and help forecast the long-term impact of [certain policy and budget decisions](https://nationalpost.com/opinion/phoenix-payroll-civil-servants). Although this was a modelling-heavy project, I also spent a lot of my time explaining my work to smart-but-not-technical people. My contributions were an important part of the Pay Program's budget requests and consistently resulted in favourable funding decisions.
 
